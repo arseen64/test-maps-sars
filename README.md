@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/arseen64/test-maps-sars/
+- Leaflet Map https://arseen64.github.io/test-maps-sars/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1f7IT5C9oM8BaebqRqU2E0TeT7kpSA_-EEVOxA8yRHFU/edit#gid=0
 
 ## Create your own
